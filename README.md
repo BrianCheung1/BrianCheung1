@@ -5,6 +5,6 @@
 --> 
 
 - 🔭 I’m currently working on getting a job
-- 🌱 I’m currently learning bootstrap, html
-- 💬 Ask me about Games, Anime, Coding
+- 🌱 I’m currently learning react, material-ui, etc
+- 💬 Ask me about Games, Anime, Coding, etc
 - ⚡ Fun fact: I love learning new tricks in coding
