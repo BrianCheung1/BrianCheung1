@@ -4,6 +4,7 @@
 **BrianCheung1/BrianCheung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
+- Check out my site (site)[https://briancheung1.github.io/Portfolio/#/]
 - 🔭 I’m currently working on getting a job
 - 🌱 I’m currently learning react, material-ui, etc
 - 💬 Ask me about Games, Anime, Coding, etc
