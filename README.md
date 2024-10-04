@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brian-cheung1/" target="_blank">
+  <a href="https://www.linkedin.com/in/brian-cheung1/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 </div>
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Brian Cheung from New York<br><br>- 📚 I'm currently contributing to open source projects<br>- ⚡ In my free time I play Valorant<br>- ⚡ Checkout my website <a href="https://www.briancheung.wiki/" target="_blank"> here</a></p>
+<p align="left">I'm Brian Cheung from New York<br><br>- 📚 I'm currently contributing to open source projects<br>- ⚡ In my free time I play Valorant<br>- ⚡ Checkout my website <a href="https://www.briancheung.wiki/" target="_blank" rel="noopener noreferrer"> here</a></p>
 
 ###
 
