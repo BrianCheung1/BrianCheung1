@@ -58,3 +58,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=briancheung1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+[![An image of @briancheung1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/briancheung1)](https://holopin.io/@briancheung1)
