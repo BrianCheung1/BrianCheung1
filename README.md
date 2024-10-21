@@ -52,16 +52,13 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <div>
-  <img src="https://streak-stats.demolab.com?user=briancheung1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    </div>
-   <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancheung1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-     </div>
+  <div style="display: inline-block; width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=briancheung1&theme=tokyonight&hide_border=true" style="width: 50%; height: auto;"/>
+  </div>
+  <div style="display: inline-block; width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancheung1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="width: 50%; height: auto;"/>
+  </div>
 </div>
 
 [![An image of @briancheung1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/briancheung1)](https://holopin.io/@briancheung1)
