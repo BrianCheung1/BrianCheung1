@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 <div align="center">
   <div style="display: inline-block; width: 400px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=briancheung1&theme=tokyonight&hide_border=true" style="width: 50%; height: auto;"/>
